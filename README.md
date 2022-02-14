@@ -1,0 +1,1 @@
+Utilizando uma api que encontrei de pokemons, estou desenvolvendo uma pokedex. 
